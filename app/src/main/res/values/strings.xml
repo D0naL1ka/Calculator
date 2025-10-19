@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="btn_exit">Вийти</string>
+
+    <string name="display_initial_value">0</string>
+
+    <string name="btn_all_clear">AC</string>
+    <string name="btn_plus_minus">+/-</string>
+    <string name="btn_percent">%</string>
+
+    <string name="btn_divide">÷</string>
+    <string name="btn_multiply">×</string>
+    <string name="btn_subtract">−</string>
+    <string name="btn_add">+</string>
+    <string name="btn_equals">=</string>
+
+    <string name="btn_decimal">,</string>
+    <string name="btn_zero">0</string>
+    <string name="btn_one">1</string>
+    <string name="btn_two">2</string>
+    <string name="btn_three">3</string>
+    <string name="btn_four">4</string>
+    <string name="btn_five">5</string>
+    <string name="btn_six">6</string>
+    <string name="btn_seven">7</string>
+    <string name="btn_eight">8</string>
+    <string name="btn_nine">9</string>
+</resources>
